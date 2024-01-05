@@ -19,4 +19,10 @@ Scriptacide uses PCAPdroid to execute scripts and use developer tools easily on 
 13. Now open the "PCAPdroid mitm" from the TLS decryption setup process.
 14. Select "Js injector"
 15. Click "+"
-16. paste in the following permalink for the userscript:
+16. Paste in the following link for the userscript: 
+```https://raw.githubusercontent.com/V-0-I-D-JS/Scriptacide/main/src/scriptacide.js```
+17. Select "Add"
+18. return to PCAPdroid.
+19. Click "Ready"
+20. Open your previously chosen browser
+21. Profit 
