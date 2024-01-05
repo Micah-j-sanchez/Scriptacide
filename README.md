@@ -1,5 +1,7 @@
 # Scriptacide: PCAPdroid Userscript for Easy Script Execution
 
+![Scriptacide Logo](https://github.com/V-0-I-D-JS/Scriptacide/blob/52f4cb42e557cc5f316ab3d42b4f057579fe72c6/images/20240105_125223_0000.png){width=100px height=100px
+
 Scriptacide leverages PCAPdroid to execute scripts and use developer tools conveniently on mobile devices. Unlike traditional methods such as injecting scripts via JavaScript URLs or the JavaScript console, Scriptacide injects at the HTTP request level, allowing for the bypassing of restrictions on requests to external URLs. This unique approach enables the execution of custom scripts on sites like Discord and Google (Note: Be cautious as this may violate terms of service). Scriptacide also includes the hardcoded Eruda Console, facilitating the use of developer tools on mobile platforms.
 
 ## Setting up Scriptacide
