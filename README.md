@@ -27,5 +27,5 @@ Scriptacide leverages PCAPdroid to execute scripts and use developer tools conve
 18. Return to PCAPdroid.
 19. Click "Ready."
 20. Open your chosen browser.
-21. Navigate to a website of your choosing (Note: Not all websites are supported.)
+21. Navigate to a website of your choosing(Note: Not all websites are supported.)
 22. Profit
